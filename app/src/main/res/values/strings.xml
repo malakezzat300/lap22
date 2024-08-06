@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lap 2.2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="activity_a">Activity A</string>
+    <string name="fragment_a">Fragment A</string>
+    <string name="counter_button">Count</string>
+    <string name="activity_b">Activity B</string>
+    <string name="fragment_b">Fragment B</string>
+</resources>
